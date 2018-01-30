@@ -1,22 +1,26 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Helicopter Battle
+#  i18n: 
+  gh_user: jeongwhanchoi
+  repo: helicopter_battle
+  url: https://github.com/jeongwhanchoi/helicopter_battle
+  img: /static/assets/img/landing/helicopter_battle.png
+  desc: Game Improvement Project
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Smart Mailbox
+#  i18n:
+  gh_user: jeongwhanchoi
+  repo: Smart-Mailbox
+  url: https://github.com/jeongwhanchoi/Smart-Mailbox
+  img: /static/assets/img/landing/Smart-Mailbox.png
+  desc: Arduino project "Smart Mailbox"; Embedded Software-2nd semester in 2017
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Iceberg Classifier
+#  i18n:
+  gh_user: jeongwhanchoi
+  repo: MLND_Capstone-Project
+  url: https://github.com/jeongwhanchoi/MLND-Capstone-Project
+  img: /static/assets/img/landing/iceberg_classifier.png
+  desc: Capstone Project for Udacity Machine Learning Nanodegree
