@@ -4,7 +4,7 @@ title:  "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
 date:   2017-01-31
 desc: "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
+categories: [Ml]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
@@ -15,22 +15,22 @@ So, if you like this website <https://jarrekk.github.io/Jalpc/> or <http://www.j
 
 1. Fork [this project -- Jalpc](https://github.com/jarrekk/Jalpc) at [GitHub](https://github.com). If you want to edit website at github, do it as following gif or clone forked repository. `git clone git@github.com:github_username/Jalpc.git`.
 
-	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
-	<img src="{{ site.img_path }}/3steps/edit.gif" width="75%">
+  <!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
+  <img src="{{ site.img_path }}/3steps/edit.gif" width="75%">
 
 2. Enter into repository directory and edit following file list:
 
-	* **_config.yml**: edit 'Website settings', 'author', 'comment' and 'analytics' items.
+  * **_config.yml**: edit 'Website settings', 'author', 'comment' and 'analytics' items.
 
-	* **_data/landing.yml**: custom sections of index page.
+  * **_data/landing.yml**: custom sections of index page.
 
-	* **_data/index/**: edit sections' data to yours at index page, please notice comment at each file.
+  * **_data/index/**: edit sections' data to yours at index page, please notice comment at each file.
 
-	* **_data/blog.yml**: edit navbar(categories) of blog page, if you have different/more blog page, copy `blog/python.html` and change it to your category HTML file, and edit **Python**, **/python/** to your category name at items **title** and **permalink**, make sure title is the same as permalink but capitalized first letter(except HTML).
+  * **_data/blog.yml**: edit navbar(categories) of blog page, if you have different/more blog page, copy `blog/python.html` and change it to your category HTML file, and edit **Python**, **/python/** to your category name at items **title** and **permalink**, make sure title is the same as permalink but capitalized first letter(except HTML).
 
-	* **CNAME**: If you wanna release website at your own domain name: edit it and create `gh-pages` branch; if you want to use *github_username.github.io*: leave it blank.
+  * **CNAME**: If you wanna release website at your own domain name: edit it and create `gh-pages` branch; if you want to use *github_username.github.io*: leave it blank.
 
-	* Go to repo's settings panel, config **GitHub Pages** section to make sure website is released.
+  * Go to repo's settings panel, config **GitHub Pages** section to make sure website is released.
 
 3. Push changes to your github repository and view your website, done!
 

@@ -4,7 +4,7 @@ title:  "blog posting test"
 date:   2018-1-31
 desc: "quick blog posting test"
 keywords: "blog, Jeykill, github, pages, blog"
-categories: [ML]
+categories: [Ml]
 tags: [Machine Learning, ML]
 icon: icon-html
 ---
