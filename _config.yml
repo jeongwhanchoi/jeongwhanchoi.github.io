@@ -31,8 +31,8 @@ author:  # change following line to your infomation.
   desc: Machine Learning Software Engineer, Undergraduate Student.  # Describe yourself.
 
 # comment
-#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-#  name: jalpc
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: jeongwhanchoi
 
 # analytics
 ## google analytics
