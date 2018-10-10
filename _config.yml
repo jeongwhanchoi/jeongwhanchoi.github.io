@@ -13,7 +13,7 @@ name                     : &name "Jeongwhan Choi"
 description              : &description "personal description"
 url                      : https://jeongwhanchoi.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jeongwhanchoi/jeongwhanchoi.github.io"
+repository               : "jeongwhanchoi"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
