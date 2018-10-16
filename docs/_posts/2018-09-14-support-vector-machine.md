@@ -1,6 +1,10 @@
 ---
 title: "Support Vector Machine"
-category: "Machine Learning"
+categories: 
+	- Machine Learning
+tags:
+	- svm
+	- ml
 ---
 
 # Support Vector Machine
