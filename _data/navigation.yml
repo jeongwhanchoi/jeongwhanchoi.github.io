@@ -4,14 +4,14 @@ main:
     url: /about/
     description: "About me"
   - title: "Posts"
-    url: /posts/
+    url: /year-archive/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
+ - title: "Pages"
+   url: /page-archive/
+ - title: "Collections"
+   url: /collection-archive/
 #  - title: "External Link"
 #    url: https://google.com
