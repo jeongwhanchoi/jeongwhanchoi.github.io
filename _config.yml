@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Jeongwhan Choi's Notes"
+  ""
 
 # A list of keywords for your blog
 keywords:              []
@@ -40,15 +40,15 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Jeongwhan> <Choi>
+  email:               <jngwhn.choi@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2018. All rights reserved.
-  Open `_config.yml` to edit this text.
+  © jeongwhanchoi2018. All rights reserved.
+  
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -285,11 +285,12 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name:                <Jeongwhan> <Choi>
+  links:
+    - https://github.com/jeongwhanchoi
+    - https://linkedin.com/in/jeongwhanchoi
+    - https://twitter.com/jeongwhan_choi
 
 
 # Other Plugins
