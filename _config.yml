@@ -80,11 +80,11 @@ analytics:
 # Site Author
 author:
   name             : "Jeongwhan Choi"
-  avatar           : #"profile.png"
+  avatar           : "profile.jpg"
   bio              : "Software Engineering Student"
-  location         : "Location"
+  location         : "Seoul, Korea"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "jngwhn.choi@gmail.com"
   uri              :
   bitbucket        :
@@ -111,6 +111,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  gitshowcase      : "https://www.gitshowcase.com/jeongwhanchoi"
 
 
 # Reading Files
